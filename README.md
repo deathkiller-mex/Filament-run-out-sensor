@@ -57,6 +57,7 @@ DON'T CONNECT IT TO THE PRINTER JUST YET, SINCE AFTER SOLDERING U MUST FIRST PUT
 # Other Printers compatibility.
 
 - If u have another printer besides the one above, the building process should be the same buuuuut you will need to download the parts labeled "Universal" in the CAD folder.
+- To screw the sensor into the printer sheck the dimensions on the pic folder and find a spot where it fits. :/ sorry but idk or own other printers besides the Ender and SE.
 - For wiring, look for similar ports to connect the sensor into (Most commercial sensors work a similar way, so what u can do is look for a sensor online and check where the manufacturer indicates to connect the sensor to).
 - 💀💀💀IMPORTANT, PLS MAKE SURE UR PRINTER HAS AN INTERNAL RESISTOR LIKE THE ENDER V3 SE CAPABLE OF HANDLING THE SHORT!! What does this mean? Ensure your firmware activates the mainboard's internal pull-up resistor to handle the logic state safely.
 - Also note that the connector might be different, so ensure u buy the correct one.
