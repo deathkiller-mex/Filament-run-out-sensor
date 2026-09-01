@@ -16,7 +16,7 @@ Symbol meanings:
 So with this setup, once the IR receiver senses the IR LED, the printer will take the signal and interpret it as, "Oh, there is no filament; let's stop the printer."
 
 
-# Important note: this setup was designed and tested for the Ender V3 SE; every other printer except the KE pls scroll down to the "# Other Printers compatibility."
+# Important note: this setup was designed and tested for the Ender V3 SE; every other printer except the KE pls scroll down to the "Other Printers compatibility."
 
 
 # Wiring
