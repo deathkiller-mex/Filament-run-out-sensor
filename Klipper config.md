@@ -3,7 +3,7 @@
 <img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/db305834-a49c-4725-880f-7f685e500685" />
 2. Once ur there, scroll and look for the file named "printer.cfg"   NOTE: It must be that exact file, not something like "printer-
 20260810_190809.cfg"  
-  <p align="center">
+<p align="center">
   <img width="375" height="290" alt="image" src="https://github.com/user-attachments/assets/4111e542-221d-40a1-adb9-b6e4d208aece" />  
 </p>
 4. Once ur inside this folder, scroll all the way to the bottom and add this code block: 
