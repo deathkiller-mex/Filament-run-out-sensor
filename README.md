@@ -70,7 +70,9 @@ Note on the BOM: all of these are recommended sellers; honestly, if u won't be u
 |Part|Amount|Price|Link|
 |:-------:|:----:|:--:|:--:|
 |IR LED 940nm and Q PHOTO NPN|1|$3.77|[Aliexpress](https://www.aliexpress.com/item/3256803143839703.html?spm=a2g0o.order_list.order_list_main.25.49f61802DPEsUi)|
-|Cable|5M|$1.61|[Aliexpress](https://www.aliexpress.us/item/3256804149903490.html?spm=a2g0o.order_list.order_list_main.14.49f61802DPEsUi&gatewayAdapt=glo2usa)|
-|Aprox Total| |$8.14| |
+|Cable|5M|$2.09|[Aliexpress](https://www.aliexpress.us/item/3256804149903490.html?spm=a2g0o.order_list.order_list_main.14.49f61802DPEsUi&gatewayAdapt=glo2usa)|
+|JST-XH 2.54mm (4-pin)|1|$3.48||[Aliexpress](https://www.aliexpress.com/item/3256803495901819.html?spm=a2g0o.cart.0.0.401a7a9do6m4Tx&mp=1&pdp_npi=6%40dis%21USD%21USD%203.48%21USD%203.48%21%21USD%203.41%21%21%21%402101e7a317882918157682275e0ccf%2112000026787314843%21ct%21US%216359134517%21%211%210%21)|
+|220 ohm resistor|1|$1.51|[Aliexpress](https://www.aliexpress.com/item/3256809104654732.html?spm=a2g0o.cart.0.0.401a7a9do6m4Tx&mp=1&pdp_npi=6%40dis%21USD%21USD%203.02%21USD%201.51%21%21USD%201.50%21%21%21%402101e7a317882918157682275e0ccf%2112000048633255432%21ct%21US%216359134517%21%211%210%21)"
+|Aprox Total| |$11.52| |
 
 
