@@ -1,4 +1,4 @@
-# Filament-run-out-sensor
+# Filament-run-out-sensor (Klipper Only)
 
 # IDEA
 
