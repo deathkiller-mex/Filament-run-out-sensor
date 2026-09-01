@@ -26,6 +26,7 @@ So with this setup, once the IR receiver senses the IR LED, the printer will tak
 # BOM
 
 |Part|Amount|Price|Link|
+|:-------:|:----:|:--:|:--:|
 |IR LED 940nm and Q PHOTO NPN|1|$3.77|[Aliexpress](https://www.aliexpress.com/item/3256803143839703.html?spm=a2g0o.order_list.order_list_main.25.49f61802DPEsUi)|
 |Cable|5M|$1.61|[Aliexpress](https://www.aliexpress.us/item/3256804149903490.html?spm=a2g0o.order_list.order_list_main.14.49f61802DPEsUi&gatewayAdapt=glo2usa)|
 |Aprox Total| |$8.14| |
